@@ -1,0 +1,15 @@
+MOV RAX, 5
+MOV RBX, 3
+
+AND RAX, RBX ;bitsko I
+
+MOV RAX, 2
+MOV RBX, 1
+
+OR RAX, RBX ;bitsko ILI
+
+MOV RAX, 11111111h
+
+NOT RAX ;bitsko NE
+
+

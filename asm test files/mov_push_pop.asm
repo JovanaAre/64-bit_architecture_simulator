@@ -1,0 +1,12 @@
+MOV RAX, 5
+MOV RBX, RAX
+MOV BYTE DIR [RAX], 2
+MOV RDX, 1
+MOV BYTE DIR [RDX], 10h ;heksadecimalna vrijednost
+
+PUSH RAX
+
+POP RDX 
+
+MOV AX, 20
+PUSH AX

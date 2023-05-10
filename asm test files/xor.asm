@@ -1,0 +1,4 @@
+MOV RAX, 4
+MOV RBX, 3
+
+OR RAX, RBX ;bitsko EXILI
