@@ -1,1 +1,1 @@
-# 64-bit_architecture_simulator
+# SIMULACIJA 64-bitne ARHITEKTURE (_Arhitektura računara_)
